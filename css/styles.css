@@ -131,7 +131,7 @@ img {
 
 .studio-desciption {
   display: inline-block;
-  gap: 120px;
+  margin-right: 120px;
 }
 
 .bottom-logo {

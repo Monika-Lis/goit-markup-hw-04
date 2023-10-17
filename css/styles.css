@@ -275,7 +275,7 @@ ol {
 }
 
 .objectives-section {
-  padding: 120px 0px;
+  padding-bottom: 120px;
 }
 .objective-list {
   display: flex;
@@ -520,7 +520,6 @@ ol {
   column-gap: 24px;
   row-gap: 48px;
   flex-wrap: wrap;
-  padding-bottom: 120px;
 }
 
 .projects-item {
